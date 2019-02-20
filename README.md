@@ -4,8 +4,11 @@
 **Overview Articles:**
 
 https://towardsdatascience.com/market-mix-modeling-mmm-101-3d094df976f9
+
 http://www.joshuakim.io/marketing-mix-modelling-with-bayesian-regression/
+
 http://learn.fractalanalytics.com/rs/fractalanalytics/images/white%20paper-%20multiplicative%20mmm%20simplified.pdf
+
 http://rpubs.com/nihil0/mmm01
 
 
